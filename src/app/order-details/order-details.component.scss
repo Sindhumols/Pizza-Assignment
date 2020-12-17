@@ -1,0 +1,54 @@
+.text-lg{
+    font-size: 24px;
+}
+
+.text-sm{
+    font-size: 21px;
+}
+
+.text-xs{
+    font-size: 17px;
+}
+
+.flex{
+    display: flex;
+}
+
+.amt-bg{
+    border: 1px solid transparent;
+    padding: 3px 10px 2px;
+    font-weight: bold;
+    border-radius: 7px;
+    background: #97c9ff;
+    color: #fff;
+}
+
+.text-blue{
+    color:#97c9ff
+}
+
+.text-grey {
+    color: #727070;
+}
+
+.text-light-grey {
+    color: #8f8e8e !important;
+}
+
+.min-line-height{
+    line-height: 20px;
+}
+
+.item-img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.img-container{
+    position: relative;
+    width: 120px;
+    height: 85px;
+}
